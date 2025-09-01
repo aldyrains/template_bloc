@@ -220,10 +220,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues** - [GitHub Issues](https://github.com/yourusername/template_bloc/issues)
-- **Discussions** - [GitHub Discussions](https://github.com/yourusername/template_bloc/discussions)
-- **Email** - your.email@example.com
+- **Issues** - [GitHub Issues](https://github.com/aldyrains/template_bloc/issues)
+- **Discussions** - [GitHub Discussions](https://github.com/aldyrains/template_bloc/discussions)
+- **Email** - aldyrains30@gmail.com
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Aldy Rains**
